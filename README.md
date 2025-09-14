@@ -1,6 +1,6 @@
 # RAG-Step-Back-Hyde-Semantic-Search
 
-### Karthi-Dstech RAG – Step-Back & HyDE Semantic Search
+### Overview
 
 This repository provides an **end-to-end Retrieval-Augmented Generation (RAG) pipeline** with two advanced reasoning techniques:
 

@@ -9,7 +9,6 @@ This repository provides an **end-to-end Retrieval-Augmented Generation (RAG) pi
 
 The codebase is organized for **training, experimentation, and deployment** of hybrid semantic search applications built on LangChain, OpenAI (or other LLMs), and Vector Store.
 
----
 
 ### 📂 Project Structure
 
@@ -29,4 +28,5 @@ karthi-dstech-rag-step-back-and-hyde-semantic-search/
     └── document_processor.py -- Loads, cleans, and chunks PDFs/text into LangChain Documents
 
 ```
+
 
